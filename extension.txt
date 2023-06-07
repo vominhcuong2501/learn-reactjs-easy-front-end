@@ -1,0 +1,15 @@
+#Bật chế độ auto format on save 
+
+1. File -> Preferences -> Settings hoặc Ctrl + dấu ,
+2. Tìm kiếm Format on save 
+3. Check vào ô checkbox 
+
+#Cài một số extension hữu ích 
+
+1. ReactJS code snippets (code reactjs nhanh hơn với nippets)
+2. Javascript (ES6) code snippets (code js nhanh với snippets)
+3. Material Icon Theme (sử dụng bộ icon đẹp cho folders, file)
+4. SCSS Formatter (format styles: css, scss)
+5. Bracket Pair Colorizer 2 (tô màu khác nhau cho dấu ngoặc)
+6. ESLint (báo lỗi khi code vi phạm best practices / rules)
+7. https://github.com/tonsky/FiraCode (thiết lập ký tự)

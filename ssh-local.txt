@@ -1,0 +1,3 @@
+# Tạo SSH key 
+1. Mở Git bash 
+2. Chạy lệnh: ssh-keygen -t rsa -b 4096 -C "minhcuongvo2501@gmail.com"
