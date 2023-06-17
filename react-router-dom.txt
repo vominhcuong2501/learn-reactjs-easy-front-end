@@ -17,8 +17,12 @@ Cú pháp: npm i --save react-router-dom
 - useParams(): Trả về PATH PARAMS object của URL hiện tại
 => khi muốn xử lý path params.
 - useRouteMatch(): Trả về MATCH object của URL hiện tại
-=> khi làm nested params.
+=> khi làm nested routing.
 
-3. Phân bieetjpath params với URL params 
+3. Phân biệt path params trong Route với URL params trên đường dẫn 
 - User visits: /todos/123 => Path params là {todoId: 123}
 - User vào đường dẫn: /todos?page=1&size=10 => URL params là phần sau dấu chấm hỏi 
+
+4. DÙng atribute exact thì có hai hướng: 
+- false thì đó Route se match khi URL start with path 
+- true thì lúc đó Route se match khi path = URL
