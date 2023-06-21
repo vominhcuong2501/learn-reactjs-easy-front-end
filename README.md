@@ -123,3 +123,9 @@ Với component trong ReactJS, life cycle gồm 3 giai đoạn:
 - Dự án lớn
 - Team có nhiều ng code (> 5 người)
 - Chưa quen làm việc với kiểu dynamic type của JS
+
+# Truyền dữ liệu
+
+1. Truyền dữ liệu từ cha xuống con: Props
+2. Truyền dữ liệu giữa component ngang hàng: để state trên component cha, rồi từ cha truyền ngược xuống component con
+3. Truyền dữ liệu giữ các trang khác nhau: Redux
