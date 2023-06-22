@@ -66,6 +66,10 @@ function TodoFeature() {
 
   const handleTodoFormSubmit = (values) => {
     console.log("Form submit: ", values);
+    setTodoList([...todoList, {
+      id: Date.now().toString(),
+      title: values.title, status: "new"
+    }])
   };
   return (
     <div>
