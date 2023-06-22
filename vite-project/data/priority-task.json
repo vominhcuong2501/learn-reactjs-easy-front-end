@@ -1,0 +1,35 @@
+{
+    "statusCode": 200,
+    "message": "Xử lý thành công!",
+    "content": [
+        {
+            "priorityId": 1,
+            "priority": "High",
+            "description": "High",
+            "deleted": false,
+            "alias": "High"
+        },
+        {
+            "priorityId": 2,
+            "priority": "Medium",
+            "description": "Medium",
+            "deleted": false,
+            "alias": "Medium"
+        },
+        {
+            "priorityId": 3,
+            "priority": "Low",
+            "description": "Low",
+            "deleted": false,
+            "alias": "Low"
+        },
+        {
+            "priorityId": 4,
+            "priority": "Lowest",
+            "description": "Lowest",
+            "deleted": false,
+            "alias": "Lowest"
+        }
+    ],
+    "dateTime": "2023-06-22T11:00:08.1727104+07:00"
+}

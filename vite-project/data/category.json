@@ -1,0 +1,18 @@
+{
+    "statusCode": 200,
+    "content": [
+        {
+            "id": 1,
+            "projectCategoryName": "Dự án web"
+        },
+        {
+            "id": 2,
+            "projectCategoryName": "Dự án phần mềm"
+        },
+        {
+            "id": 3,
+            "projectCategoryName": "Dự án di động"
+        }
+    ],
+    "dateTime": "2023-06-22T10:49:20.7395728+07:00"
+}

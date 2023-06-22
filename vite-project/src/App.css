@@ -3,3 +3,11 @@
   margin: 0 auto;
   padding: 0;
 }
+
+.MuiFormHelperText-root {
+  color: red !important;
+}
+
+.MuiFormHelperText-root.MuiInput-underline:after {
+  border-bottom: 2px solid red;
+}

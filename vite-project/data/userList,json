@@ -1,0 +1,273 @@
+{
+    "statusCode": 200,
+    "message": "Xử lý thành công!",
+    "content": [
+        {
+            "userId": 2417,
+            "name": "Furkan",
+            "avatar": "https://ui-avatars.com/api/?name=Furkan",
+            "email": "furkan123@gmail.com",
+            "phoneNumber": "1234564412"
+        },
+        {
+            "userId": 2537,
+            "name": "Mehmet",
+            "avatar": "https://ui-avatars.com/api/?name=Mehmet",
+            "email": "mehmet@gmail.com",
+            "phoneNumber": "987654321"
+        },
+        {
+            "userId": 2909,
+            "name": "busra",
+            "avatar": "https://ui-avatars.com/api/?name=busra",
+            "email": "busra@gmail.com",
+            "phoneNumber": "111111111"
+        },
+        {
+            "userId": 3960,
+            "name": "dogukan",
+            "avatar": "https://ui-avatars.com/api/?name=dogukan",
+            "email": "dogukan@gmail.com",
+            "phoneNumber": "123456"
+        },
+        {
+            "userId": 3962,
+            "name": "merve",
+            "avatar": "https://ui-avatars.com/api/?name=merve",
+            "email": "merve@gmail.com",
+            "phoneNumber": "0123123"
+        },
+        {
+            "userId": 3974,
+            "name": "berk",
+            "avatar": "https://ui-avatars.com/api/?name=berk",
+            "email": "berk@gmail.com",
+            "phoneNumber": "9216209221"
+        },
+        {
+            "userId": 4179,
+            "name": "asdf",
+            "avatar": "https://ui-avatars.com/api/?name=asdf",
+            "email": "asdf@gmail.com",
+            "phoneNumber": "123123"
+        },
+        {
+            "userId": 4189,
+            "name": "inal",
+            "avatar": "https://ui-avatars.com/api/?name=inal",
+            "email": "inal@gmail.com",
+            "phoneNumber": "0978206480"
+        },
+        {
+            "userId": 4190,
+            "name": "cansu",
+            "avatar": "https://ui-avatars.com/api/?name=cansu",
+            "email": "cansu@gmail.com",
+            "phoneNumber": "0934555555"
+        },
+        {
+            "userId": 5207,
+            "name": "Simay",
+            "avatar": "https://ui-avatars.com/api/?name=Simay",
+            "email": "simay@gmail.com",
+            "phoneNumber": "0836789578"
+        },
+        {
+            "userId": 5214,
+            "name": "Vũ Lê Bảo Long",
+            "avatar": "https://ui-avatars.com/api/?name=Vũ Lê Bảo Long",
+            "email": "vulebaolong@gmail.com",
+            "phoneNumber": "0836789578"
+        },
+        {
+            "userId": 5216,
+            "name": "u3",
+            "avatar": "https://ui-avatars.com/api/?name=u3",
+            "email": "u3@gmail.com",
+            "phoneNumber": "1111"
+        },
+        {
+            "userId": 5220,
+            "name": "nghiemdinhminh",
+            "avatar": "https://ui-avatars.com/api/?name=nghiemdinhminh",
+            "email": "nghiemdinhminh2002@gmail.com",
+            "phoneNumber": "0936055632"
+        },
+        {
+            "userId": 5225,
+            "name": "omer",
+            "avatar": "https://ui-avatars.com/api/?name=omer",
+            "email": "omer@omer.com",
+            "phoneNumber": "5555555555"
+        },
+        {
+            "userId": 5226,
+            "name": "huy",
+            "avatar": "https://ui-avatars.com/api/?name=huy",
+            "email": "ndhbang2017@gmail.com",
+            "phoneNumber": "327027369"
+        },
+        {
+            "userId": 5227,
+            "name": "admin",
+            "avatar": "https://ui-avatars.com/api/?name=admin",
+            "email": "admin@cyberbug.vn",
+            "phoneNumber": "0795961317"
+        },
+        {
+            "userId": 5228,
+            "name": "java script",
+            "avatar": "https://ui-avatars.com/api/?name=java script",
+            "email": "123123123111van@gmail.com",
+            "phoneNumber": "+84123123123"
+        },
+        {
+            "userId": 5230,
+            "name": "AnVu",
+            "avatar": "https://ui-avatars.com/api/?name=AnVu",
+            "email": "vipbandon29@gmail.com",
+            "phoneNumber": "1235513"
+        },
+        {
+            "userId": 5231,
+            "name": "string",
+            "avatar": "https://ui-avatars.com/api/?name=string",
+            "email": "string",
+            "phoneNumber": "string"
+        },
+        {
+            "userId": 5232,
+            "name": "java script",
+            "avatar": "https://ui-avatars.com/api/?name=java script",
+            "email": "123123van@gmail.com",
+            "phoneNumber": "+84123123123"
+        },
+        {
+            "userId": 5233,
+            "name": "java script",
+            "avatar": "https://ui-avatars.com/api/?name=java script",
+            "email": "123123123van@gmail.com",
+            "phoneNumber": "+84123123123"
+        },
+        {
+            "userId": 5234,
+            "name": "abc",
+            "avatar": "https://ui-avatars.com/api/?name=abc",
+            "email": "abc@gmail.com",
+            "phoneNumber": "0123456789"
+        },
+        {
+            "userId": 5235,
+            "name": "Nguyen Van Hieu",
+            "avatar": "https://ui-avatars.com/api/?name=Nguyen Van Hieu",
+            "email": "vanhieu123@gmail.com",
+            "phoneNumber": "0124124124"
+        },
+        {
+            "userId": 5236,
+            "name": "thinh",
+            "avatar": "https://ui-avatars.com/api/?name=thinh",
+            "email": "rontran23@gmail.com",
+            "phoneNumber": "083723872"
+        },
+        {
+            "userId": 5238,
+            "name": "abc abc",
+            "avatar": "https://ui-avatars.com/api/?name=abc abc",
+            "email": "abc3@abc.com",
+            "phoneNumber": "0123456789"
+        },
+        {
+            "userId": 5239,
+            "name": "Nghia",
+            "avatar": "https://ui-avatars.com/api/?name=Nghia",
+            "email": "vannghia.122003@gmail.com",
+            "phoneNumber": "0123456789"
+        },
+        {
+            "userId": 5240,
+            "name": "123123",
+            "avatar": "https://ui-avatars.com/api/?name=123123",
+            "email": "dngocson12@gmail.com",
+            "phoneNumber": "123123"
+        },
+        {
+            "userId": 5241,
+            "name": "Nga Ho",
+            "avatar": "https://ui-avatars.com/api/?name=Nga Ho",
+            "email": "ngahtpps25336@fpt.edu.vn",
+            "phoneNumber": "84944057053"
+        },
+        {
+            "userId": 5242,
+            "name": "toan",
+            "avatar": "https://ui-avatars.com/api/?name=toan",
+            "email": "toan@yopmail.com",
+            "phoneNumber": "0977166121"
+        },
+        {
+            "userId": 5243,
+            "name": "minh tam",
+            "avatar": "https://ui-avatars.com/api/?name=minh tam",
+            "email": "minhtam@gmail.com",
+            "phoneNumber": "0354023754"
+        },
+        {
+            "userId": 5244,
+            "name": "Abc",
+            "avatar": "https://ui-avatars.com/api/?name=Abc",
+            "email": "abc123@gmail.com",
+            "phoneNumber": "0123456789"
+        },
+        {
+            "userId": 5245,
+            "name": "son",
+            "avatar": "https://ui-avatars.com/api/?name=son",
+            "email": "nh0ksuan01@gmail.com",
+            "phoneNumber": "3213213212313"
+        },
+        {
+            "userId": 5246,
+            "name": "Tran Phuong Anh",
+            "avatar": "https://ui-avatars.com/api/?name=Tran Phuong Anh",
+            "email": "phuong@gmail.com",
+            "phoneNumber": "0935201378"
+        },
+        {
+            "userId": 5247,
+            "name": "long",
+            "avatar": "https://ui-avatars.com/api/?name=long",
+            "email": "phamvolong3",
+            "phoneNumber": "0989999999"
+        },
+        {
+            "userId": 5248,
+            "name": "long",
+            "avatar": "https://ui-avatars.com/api/?name=long",
+            "email": "phamvolong3@gmail.com",
+            "phoneNumber": "0989999999"
+        },
+        {
+            "userId": 5249,
+            "name": "Abc",
+            "avatar": "https://ui-avatars.com/api/?name=Abc",
+            "email": "Abc@mail.com",
+            "phoneNumber": "5556667788"
+        },
+        {
+            "userId": 5250,
+            "name": "Abc",
+            "avatar": "https://ui-avatars.com/api/?name=Abc",
+            "email": "Abc@mail.com",
+            "phoneNumber": "5556667788"
+        },
+        {
+            "userId": 5251,
+            "name": "Cuong",
+            "avatar": "https://ui-avatars.com/api/?name=Cuong",
+            "email": "minhcuongvo@mobcec.com",
+            "phoneNumber": "0113114115"
+        }
+    ],
+    "dateTime": "2023-06-22T10:09:48.2632352+07:00"
+}

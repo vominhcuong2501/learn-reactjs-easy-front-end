@@ -1,28 +1,30 @@
-import TodoList from './TodoList';
-import { useState } from 'react';
-import { useLocation } from 'react-router-dom';
-import queryString from 'query-string';
+import TodoList from "./TodoList";
+import { useState } from "react";
+import { useLocation } from "react-router-dom";
+import queryString from "query-string";
+import TodoForm from "./TodoForm";
+
 function TodoFeature() {
   const initTodoList = [
     {
       id: 1,
-      title: 'Eat',
-      status: 'new',
+      title: "Eat",
+      status: "new",
     },
     {
       id: 2,
-      title: 'Sleep',
-      status: 'completed',
+      title: "Sleep",
+      status: "completed",
     },
     {
       id: 3,
-      title: 'Code',
-      status: 'new',
+      title: "Code",
+      status: "new",
     },
     {
       id: 4,
-      title: 'Playing',
-      status: 'new',
+      title: "Playing",
+      status: "new",
     },
   ];
 
@@ -32,7 +34,7 @@ function TodoFeature() {
 
   const [filterStatus, setFilterStatus] = useState(() => {
     const params = queryString.parse(location.search);
-    return params.status || 'all';
+    return params.status || "all";
   });
 
   const handleTodoClick = (todo, index) => {
@@ -41,28 +43,35 @@ function TodoFeature() {
     // toggle state
     newTodoList[index] = {
       ...newTodoList[index],
-      status: newTodoList[index].status === 'new' ? 'completed' : 'new',
+      status: newTodoList[index].status === "new" ? "completed" : "new",
     };
     // update todo list
     setTodoList(newTodoList);
   };
 
   const handleShowAll = () => {
-    setFilterStatus('all');
+    setFilterStatus("all");
   };
 
   const handleShowCompleted = () => {
-    setFilterStatus('completed');
+    setFilterStatus("completed");
   };
 
   const handleShowNew = () => {
-    setFilterStatus('new');
+    setFilterStatus("new");
   };
-  const renderedTodoList = todoList.filter((todo) => filterStatus === 'all' || filterStatus === todo.status);
+  const renderedTodoList = todoList.filter(
+    (todo) => filterStatus === "all" || filterStatus === todo.status
+  );
 
+  const handleTodoFormSubmit = (values) => {
+    console.log("Form submit: ", values);
+  };
   return (
     <div>
-      <h1>Todo List</h1>
+      <h2>What to do</h2>
+      <TodoForm onSubmit={handleTodoFormSubmit} />
+      <h2>Todo List</h2>
       <TodoList todoList={renderedTodoList} onTodoClick={handleTodoClick} />
       <div>
         <button onClick={handleShowAll}>ALL</button>

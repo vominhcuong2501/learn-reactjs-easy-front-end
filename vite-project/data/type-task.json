@@ -1,0 +1,15 @@
+{
+    "statusCode": 200,
+    "message": "Xử lý thành công!",
+    "content": [
+        {
+            "id": 1,
+            "taskType": "Bug"
+        },
+        {
+            "id": 2,
+            "taskType": "New task"
+        }
+    ],
+    "dateTime": "2023-06-22T11:01:29.3999041+07:00"
+}

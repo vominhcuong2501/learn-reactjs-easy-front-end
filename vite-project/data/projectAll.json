@@ -1,0 +1,857 @@
+{
+    "statusCode": 200,
+    "message": "Xử lý thành công!",
+    "content": [
+        {
+            "members": [
+                {
+                    "userId": 2909,
+                    "name": "busra",
+                    "avatar": "https://ui-avatars.com/api/?name=busra"
+                },
+                {
+                    "userId": 3960,
+                    "name": "dogukan",
+                    "avatar": "https://ui-avatars.com/api/?name=dogukan"
+                },
+                {
+                    "userId": 3974,
+                    "name": "berk",
+                    "avatar": "https://ui-avatars.com/api/?name=berk"
+                },
+                {
+                    "userId": 4179,
+                    "name": "asdf",
+                    "avatar": "https://ui-avatars.com/api/?name=asdf"
+                },
+                {
+                    "userId": 4189,
+                    "name": "inal",
+                    "avatar": "https://ui-avatars.com/api/?name=inal"
+                },
+                {
+                    "userId": 4190,
+                    "name": "cansu",
+                    "avatar": "https://ui-avatars.com/api/?name=cansu"
+                },
+                {
+                    "userId": 5207,
+                    "name": "Simay",
+                    "avatar": "https://ui-avatars.com/api/?name=Simay"
+                }
+            ],
+            "creator": {
+                "id": 5230,
+                "name": "AnVu"
+            },
+            "projectName": "Dự án phần mềm",
+            "description": "<h2><span style=\"color: rgb(191, 237, 210);\">Vũ L&ecirc; Bảo Long Đẹp Trai Nhất Vũ Trụ</span></h2>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5207,
+                "name": "Simay"
+            },
+            "projectName": "345346",
+            "description": "<p>5623452345</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5207,
+                "name": "Simay"
+            },
+            "projectName": "gagagagagag",
+            "description": "<p>gagagagag</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5207,
+                "name": "Simay"
+            },
+            "projectName": "gegegegeg",
+            "description": "<p>gegegeg</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5207,
+                "name": "Simay"
+            },
+            "projectName": "kukukukuk",
+            "description": "<p>kkkkkkkkkkkkkkkk</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5207,
+                "name": "Simay"
+            },
+            "projectName": "lllllllllllllllll",
+            "description": "<p>llllllllllllllllllllllll</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 5207,
+                    "name": "Simay",
+                    "avatar": "https://ui-avatars.com/api/?name=Simay"
+                }
+            ],
+            "creator": {
+                "id": 5207,
+                "name": "Simay"
+            },
+            "projectName": "pppppppppppp",
+            "description": "<p>pppppppppppppppp</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5207,
+                "name": "Simay"
+            },
+            "projectName": "mmmmmmmmmmmmmmmm",
+            "description": "<p>mmmmmmmmmmmm</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5214,
+                "name": "Vũ Lê Bảo Long"
+            },
+            "projectName": "Bomber12321 = sao lại là Bomber zợ",
+            "description": "<p>Namdaz</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "Bomber12211",
+            "description": "Namdaz"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "Bomber12",
+            "description": "Namdaz"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5216,
+                "name": "u3"
+            },
+            "projectName": "p1",
+            "description": "<p>desc p1</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "jira",
+            "description": "<p>fasfsadfsdfasd</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "Tyalia",
+            "description": "Software project"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5214,
+                "name": "Vũ Lê Bảo Long"
+            },
+            "projectName": "bomb122 => sai lại đặt bomb hoài zợ",
+            "description": "<p>T&ocirc;i l&agrave; Lương</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2417,
+                    "name": "Furkan",
+                    "avatar": "https://ui-avatars.com/api/?name=Furkan"
+                },
+                {
+                    "userId": 2909,
+                    "name": "busra",
+                    "avatar": "https://ui-avatars.com/api/?name=busra"
+                },
+                {
+                    "userId": 3960,
+                    "name": "dogukan",
+                    "avatar": "https://ui-avatars.com/api/?name=dogukan"
+                }
+            ],
+            "creator": {
+                "id": 5220,
+                "name": "nghiemdinhminh"
+            },
+            "projectName": "Demo",
+            "description": "<p>1</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2417,
+                    "name": "Furkan",
+                    "avatar": "https://ui-avatars.com/api/?name=Furkan"
+                },
+                {
+                    "userId": 2537,
+                    "name": "Mehmet",
+                    "avatar": "https://ui-avatars.com/api/?name=Mehmet"
+                }
+            ],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "bạn có thể vui lòng xóa tất cả các dự án không, tôi sẽ nộp lại bài tập về nhà sớm.",
+            "description": "<p>bạn c&oacute; thể vui l&ograve;ng x&oacute;a tất cả c&aacute;c dự &aacute;n kh&ocirc;ng, t&ocirc;i sẽ nộp lại b&agrave;i tập về nh&agrave; sớm.</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2417,
+                    "name": "Furkan",
+                    "avatar": "https://ui-avatars.com/api/?name=Furkan"
+                },
+                {
+                    "userId": 2537,
+                    "name": "Mehmet",
+                    "avatar": "https://ui-avatars.com/api/?name=Mehmet"
+                }
+            ],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "bạn có thể vui lòng xóa tất cả các dự án không, tôi sẽ nộp lại bài tập về nhà sớm. và vui lòng không thêm bất cứ thứ gì trong 3 giờ.",
+            "description": "<p>bạn c&oacute; thể vui l&ograve;ng x&oacute;a tất cả c&aacute;c dự &aacute;n kh&ocirc;ng, t&ocirc;i sẽ nộp lại b&agrave;i tập về nh&agrave; sớm. v&agrave; vui l&ograve;ng kh&ocirc;ng th&ecirc;m bất cứ thứ g&igrave; trong 3 giờ.</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2417,
+                    "name": "Furkan",
+                    "avatar": "https://ui-avatars.com/api/?name=Furkan"
+                },
+                {
+                    "userId": 2537,
+                    "name": "Mehmet",
+                    "avatar": "https://ui-avatars.com/api/?name=Mehmet"
+                }
+            ],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "can you please delete all projects, i will submit homework again soon. and please do not add anything for 3 hours.",
+            "description": "<p>can you please delete all projects, i will submit homework again soon. and please do not add anything for 3 hours.</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "Forjob İş Planı",
+            "description": "<p>werwerwer</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "Forjob Frontend",
+            "description": "<p>Forjob Frontend</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2909,
+                    "name": "busra",
+                    "avatar": "https://ui-avatars.com/api/?name=busra"
+                }
+            ],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "Forjob Backend",
+            "description": "<p>Forjob Backend</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 3974,
+                    "name": "berk",
+                    "avatar": "https://ui-avatars.com/api/?name=berk"
+                },
+                {
+                    "userId": 3962,
+                    "name": "merve",
+                    "avatar": "https://ui-avatars.com/api/?name=merve"
+                }
+            ],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "Forjob Tasarim",
+            "description": "<p>Forjob Tasarim</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 4179,
+                    "name": "asdf",
+                    "avatar": "https://ui-avatars.com/api/?name=asdf"
+                },
+                {
+                    "userId": 3960,
+                    "name": "dogukan",
+                    "avatar": "https://ui-avatars.com/api/?name=dogukan"
+                },
+                {
+                    "userId": 2909,
+                    "name": "busra",
+                    "avatar": "https://ui-avatars.com/api/?name=busra"
+                },
+                {
+                    "userId": 2537,
+                    "name": "Mehmet",
+                    "avatar": "https://ui-avatars.com/api/?name=Mehmet"
+                }
+            ],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "Forjob",
+            "description": "<p>sadadasd</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 4190,
+                    "name": "cansu",
+                    "avatar": "https://ui-avatars.com/api/?name=cansu"
+                },
+                {
+                    "userId": 4189,
+                    "name": "inal",
+                    "avatar": "https://ui-avatars.com/api/?name=inal"
+                },
+                {
+                    "userId": 2909,
+                    "name": "busra",
+                    "avatar": "https://ui-avatars.com/api/?name=busra"
+                },
+                {
+                    "userId": 2537,
+                    "name": "Mehmet",
+                    "avatar": "https://ui-avatars.com/api/?name=Mehmet"
+                }
+            ],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "dasdasda",
+            "description": "<p>asdadasdasd</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2417,
+                    "name": "Furkan",
+                    "avatar": "https://ui-avatars.com/api/?name=Furkan"
+                },
+                {
+                    "userId": 2537,
+                    "name": "Mehmet",
+                    "avatar": "https://ui-avatars.com/api/?name=Mehmet"
+                },
+                {
+                    "userId": 3962,
+                    "name": "merve",
+                    "avatar": "https://ui-avatars.com/api/?name=merve"
+                }
+            ],
+            "creator": {
+                "id": 5225,
+                "name": "omer"
+            },
+            "projectName": "asdda",
+            "description": "<p>asdad</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5227,
+                "name": "admin"
+            },
+            "projectName": "Project 1",
+            "description": ""        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5214,
+                "name": "Vũ Lê Bảo Long"
+            },
+            "projectName": "Project test tạo task",
+            "description": "<p>Vũ l&ecirc; Bảo long</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2537,
+                    "name": "Mehmet",
+                    "avatar": "https://ui-avatars.com/api/?name=Mehmet"
+                },
+                {
+                    "userId": 5214,
+                    "name": "Vũ Lê Bảo Long",
+                    "avatar": "https://ui-avatars.com/api/?name=Vũ Lê Bảo Long"
+                }
+            ],
+            "creator": {
+                "id": 5214,
+                "name": "Vũ Lê Bảo Long"
+            },
+            "projectName": "get user by project",
+            "description": "<p>abc</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5228,
+                "name": "java script"
+            },
+            "projectName": "cors",
+            "description": "<p>123</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 5214,
+                    "name": "Vũ Lê Bảo Long",
+                    "avatar": "https://ui-avatars.com/api/?name=Vũ Lê Bảo Long"
+                },
+                {
+                    "userId": 3962,
+                    "name": "merve",
+                    "avatar": "https://ui-avatars.com/api/?name=merve"
+                },
+                {
+                    "userId": 5227,
+                    "name": "admin",
+                    "avatar": "https://ui-avatars.com/api/?name=admin"
+                }
+            ],
+            "creator": {
+                "id": 5214,
+                "name": "Vũ Lê Bảo Long"
+            },
+            "projectName": "oke oke",
+            "description": "<p>okeokeokeokeoek</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 5230,
+                    "name": "AnVu",
+                    "avatar": "https://ui-avatars.com/api/?name=AnVu"
+                },
+                {
+                    "userId": 2417,
+                    "name": "Furkan",
+                    "avatar": "https://ui-avatars.com/api/?name=Furkan"
+                }
+            ],
+            "creator": {
+                "id": 5230,
+                "name": "AnVu"
+            },
+            "projectName": "project123",
+            "description": "<p>dự &aacute;n</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2417,
+                    "name": "Furkan",
+                    "avatar": "https://ui-avatars.com/api/?name=Furkan"
+                },
+                {
+                    "userId": 4179,
+                    "name": "asdf",
+                    "avatar": "https://ui-avatars.com/api/?name=asdf"
+                }
+            ],
+            "creator": {
+                "id": 5235,
+                "name": "Nguyen Van Hieu"
+            },
+            "projectName": "new project",
+            "description": "<p><em><strong>new project 12345</strong></em></p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5214,
+                "name": "Vũ Lê Bảo Long"
+            },
+            "projectName": "Tôi đã kiếm được 2000 đô nhờ việc học cybersoft , còn bạn ? => Tôi không tin",
+            "description": "<p>Sau khi đăng k&yacute; kh&oacute;a học cybersoft 6 th&aacute;ng , t&ocirc;i đ&atilde; c&oacute; thể tự tin xin việc tại một c&ocirc;ng ty lớn với mức thu nhập tr&ecirc;n 2k đ&ocirc; / th&aacute;ng , c&ograve;n bạn ? Sao kh&ocirc;ng nhanh ch&acirc;n đăng k&yacute; kh&oacute;a học cybersoft nhanh rồi để được nhận với khoảng lương như tr&ecirc;n</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "jira của Huy",
+            "description": "<p>jira của Huy</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "jira của NĐHuy",
+            "description": "<p>jira của NĐHuy</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 5232,
+                    "name": "java script",
+                    "avatar": "https://ui-avatars.com/api/?name=java script"
+                }
+            ],
+            "creator": {
+                "id": 5242,
+                "name": "toan"
+            },
+            "projectName": "a",
+            "description": "<p>a</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 5243,
+                    "name": "minh tam",
+                    "avatar": "https://ui-avatars.com/api/?name=minh tam"
+                },
+                {
+                    "userId": 5227,
+                    "name": "admin",
+                    "avatar": "https://ui-avatars.com/api/?name=admin"
+                },
+                {
+                    "userId": 2417,
+                    "name": "Furkan",
+                    "avatar": "https://ui-avatars.com/api/?name=Furkan"
+                },
+                {
+                    "userId": 5239,
+                    "name": "Nghia",
+                    "avatar": "https://ui-avatars.com/api/?name=Nghia"
+                }
+            ],
+            "creator": {
+                "id": 5243,
+                "name": "minh tam"
+            },
+            "projectName": "trello project",
+            "description": "<p>demo demo</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5231,
+                "name": "string"
+            },
+            "projectName": "string",
+            "description": "string"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "jira duc huy",
+            "description": "<p>asd</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 5220,
+                    "name": "nghiemdinhminh",
+                    "avatar": "https://ui-avatars.com/api/?name=nghiemdinhminh"
+                },
+                {
+                    "userId": 5225,
+                    "name": "omer",
+                    "avatar": "https://ui-avatars.com/api/?name=omer"
+                },
+                {
+                    "userId": 5228,
+                    "name": "java script",
+                    "avatar": "https://ui-avatars.com/api/?name=java script"
+                }
+            ],
+            "creator": {
+                "id": 5232,
+                "name": "java script"
+            },
+            "projectName": "12buttonlkl",
+            "description": ""        },
+        {
+            "members": [
+                {
+                    "userId": 2537,
+                    "name": "Mehmet",
+                    "avatar": "https://ui-avatars.com/api/?name=Mehmet"
+                },
+                {
+                    "userId": 2909,
+                    "name": "busra",
+                    "avatar": "https://ui-avatars.com/api/?name=busra"
+                },
+                {
+                    "userId": 4189,
+                    "name": "inal",
+                    "avatar": "https://ui-avatars.com/api/?name=inal"
+                },
+                {
+                    "userId": 4190,
+                    "name": "cansu",
+                    "avatar": "https://ui-avatars.com/api/?name=cansu"
+                },
+                {
+                    "userId": 5207,
+                    "name": "Simay",
+                    "avatar": "https://ui-avatars.com/api/?name=Simay"
+                },
+                {
+                    "userId": 5214,
+                    "name": "Vũ Lê Bảo Long",
+                    "avatar": "https://ui-avatars.com/api/?name=Vũ Lê Bảo Long"
+                },
+                {
+                    "userId": 5228,
+                    "name": "java script",
+                    "avatar": "https://ui-avatars.com/api/?name=java script"
+                },
+                {
+                    "userId": 5230,
+                    "name": "AnVu",
+                    "avatar": "https://ui-avatars.com/api/?name=AnVu"
+                }
+            ],
+            "creator": {
+                "id": 5214,
+                "name": "Vũ Lê Bảo Long"
+            },
+            "projectName": "123",
+            "description": "<p>123</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2537,
+                    "name": "Mehmet",
+                    "avatar": "https://ui-avatars.com/api/?name=Mehmet"
+                },
+                {
+                    "userId": 2909,
+                    "name": "busra",
+                    "avatar": "https://ui-avatars.com/api/?name=busra"
+                },
+                {
+                    "userId": 4189,
+                    "name": "inal",
+                    "avatar": "https://ui-avatars.com/api/?name=inal"
+                },
+                {
+                    "userId": 4190,
+                    "name": "cansu",
+                    "avatar": "https://ui-avatars.com/api/?name=cansu"
+                },
+                {
+                    "userId": 5207,
+                    "name": "Simay",
+                    "avatar": "https://ui-avatars.com/api/?name=Simay"
+                },
+                {
+                    "userId": 5214,
+                    "name": "Vũ Lê Bảo Long",
+                    "avatar": "https://ui-avatars.com/api/?name=Vũ Lê Bảo Long"
+                },
+                {
+                    "userId": 5228,
+                    "name": "java script",
+                    "avatar": "https://ui-avatars.com/api/?name=java script"
+                },
+                {
+                    "userId": 5235,
+                    "name": "Nguyen Van Hieu",
+                    "avatar": "https://ui-avatars.com/api/?name=Nguyen Van Hieu"
+                }
+            ],
+            "creator": {
+                "id": 5214,
+                "name": "Vũ Lê Bảo Long"
+            },
+            "projectName": "Vũ Lê Bảo lOng",
+            "description": "<p>123</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5214,
+                "name": "Vũ Lê Bảo Long"
+            },
+            "projectName": "Sau khi hoàn thành khóa học cybersoft , tôi đã có kiến thức để apply vào công ty => không tin",
+            "description": "<p>Sau khi ho&agrave;n th&agrave;nh kh&oacute;a học cybersoft , t&ocirc;i đ&atilde; c&oacute; kiến thức để apply v&agrave;o c&ocirc;ng ty&nbsp;</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5238,
+                "name": "abc abc"
+            },
+            "projectName": "Lý do để học lập trình tại cybersoft",
+            "description": "<ol>\n<li>Được mentor chỉ dạy</li>\n<li>Truy cập được 1 lượng kiến thức lớn</li>\n<li>Hệ thống e-learning hiện đại</li>\n<li>C&oacute; bằng cấp chứng chỉ</li>\n<li>Được cấp cho những th&ocirc;ng tin về phỏng vấn</li>\n<li>Học xong c&oacute; thể apply v&agrave;o c&aacute;c c&ocirc;ng ty với tr&igrave;nh độ fresher hoặc junior</li>\n<li>Với mức lương hấp dẫn từ 10 triệu đến 15 triệu</li>\n<li>Mau mau nhanh ch&oacute;ng đăng k&yacute; cybersoft&nbsp;</li>\n</ol>"        },
+        {
+            "members": [
+                {
+                    "userId": 5239,
+                    "name": "Nghia",
+                    "avatar": "https://ui-avatars.com/api/?name=Nghia"
+                },
+                {
+                    "userId": 5242,
+                    "name": "toan",
+                    "avatar": "https://ui-avatars.com/api/?name=toan"
+                },
+                {
+                    "userId": 5243,
+                    "name": "minh tam",
+                    "avatar": "https://ui-avatars.com/api/?name=minh tam"
+                },
+                {
+                    "userId": 5246,
+                    "name": "Tran Phuong Anh",
+                    "avatar": "https://ui-avatars.com/api/?name=Tran Phuong Anh"
+                }
+            ],
+            "creator": {
+                "id": 5248,
+                "name": "long"
+            },
+            "projectName": "Dự án lớp học trực tuyến online 20 06 2023 - PVL",
+            "description": "<p><span style=\"font-size: 14pt;\"><strong>HTML</strong></span></p>\n<p><span style=\"font-size: 14pt;\">The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.</span></p>\n<p><span style=\"font-size: 14pt;\"><strong>CSS</strong></span></p>\n<p><span style=\"font-size: 14pt;\">Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.</span></p>\n<p><span style=\"font-size: 14pt;\"><strong>Bootstrap</strong></span></p>\n<p><span style=\"font-size: 14pt;\">Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.</span></p>"        },
+        {
+            "members": [
+                {
+                    "userId": 5246,
+                    "name": "Tran Phuong Anh",
+                    "avatar": "https://ui-avatars.com/api/?name=Tran Phuong Anh"
+                }
+            ],
+            "creator": {
+                "id": 5246,
+                "name": "Tran Phuong Anh"
+            },
+            "projectName": "ahdflsai;",
+            "description": "<p>z,jbczxvkbhajvkxb</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5246,
+                "name": "Tran Phuong Anh"
+            },
+            "projectName": "abc12347",
+            "description": "<h1 style=\"text-align: justify;\">ịlihafjxieghaphwpdrg</h1>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "jina_Luong",
+            "description": "<p>Đừng x&oacute;a nữa, pls</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "jina_Luong1232",
+            "description": "<p>Đừng x&oacute;a nữa, pls</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "bomb12232",
+            "description": "<p>Ngon đ&oacute;</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 5243,
+                "name": "minh tam"
+            },
+            "projectName": "Bomb",
+            "description": "<p>Ngon đ&oacute;</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "Javascript",
+            "description": "<p>hoc js</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "21/6/2023",
+            "description": "project1"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "",
+            "description": ""        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "123123",
+            "description": ""        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "12312311",
+            "description": "<p>abc</p>"        },
+        {
+            "members": [],
+            "creator": {
+                "id": 2417,
+                "name": "Furkan"
+            },
+            "projectName": "project 3",
+            "description": "<p>project 3</p>"        },
+        {
+            "members": [
+                {
+                    "userId": 2417,
+                    "name": "Furkan",
+                    "avatar": "https://ui-avatars.com/api/?name=Furkan"
+                },
+                {
+                    "userId": 2909,
+                    "name": "busra",
+                    "avatar": "https://ui-avatars.com/api/?name=busra"
+                }
+            ],
+            "creator": {
+                "id": 5249,
+                "name": "Abc"
+            },
+            "projectName": "Abc proje",
+            "description": "<p>Abcabc</p>"        }
+    ],
+    "dateTime": "2023-06-22T09:35:28.9117963+07:00"
+}

@@ -1,0 +1,30 @@
+{
+    "statusCode": 200,
+    "content": [
+        {
+            "statusId": "1",
+            "statusName": "BACKLOG",
+            "alias": "tồn đọng",
+            "deleted": "False"
+        },
+        {
+            "statusId": "2",
+            "statusName": "SELECTED FOR DEVELOPMENT",
+            "alias": "được chọn để phát triển",
+            "deleted": "False"
+        },
+        {
+            "statusId": "3",
+            "statusName": "IN PROGRESS",
+            "alias": "trong tiến trình",
+            "deleted": "False"
+        },
+        {
+            "statusId": "4",
+            "statusName": "DONE",
+            "alias": "hoàn thành",
+            "deleted": "False"
+        }
+    ],
+    "dateTime": "2023-06-22T10:59:28.3181068+07:00"
+}
