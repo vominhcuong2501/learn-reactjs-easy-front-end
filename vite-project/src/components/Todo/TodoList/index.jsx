@@ -1,6 +1,6 @@
-import PropTypes from 'prop-types';
-import classnames from 'classnames';
-import './style.scss';
+import PropTypes from "prop-types";
+import classnames from "classnames";
+import "./style.scss";
 
 TodoList.propTypes = {
   todoList: PropTypes.array,
@@ -26,8 +26,8 @@ function TodoList({ todoList, onTodoClick }) {
         <li
           key={todo.id}
           className={classnames({
-            'todo-item': true,
-            completed: todo.status === 'completed',
+            "todo-item": true,
+            completed: todo.status === "completed",
           })}
           onClick={() => handleTodoClick(todo, index)}
         >
@@ -39,4 +39,3 @@ function TodoList({ todoList, onTodoClick }) {
 }
 
 export default TodoList;
-

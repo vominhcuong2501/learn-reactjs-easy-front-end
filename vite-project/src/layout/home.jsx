@@ -1,5 +1,5 @@
-import { NavLink, Outlet } from 'react-router-dom';
-import './home.scss';
+import { NavLink, Outlet } from "react-router-dom";
+import "./home.scss";
 
 export default function Home() {
   return (
@@ -9,6 +9,7 @@ export default function Home() {
         <NavLink to="/todo">Todo</NavLink>
         <NavLink to="/product">Product</NavLink>
         <NavLink to="/category">Category</NavLink>
+        <NavLink to="/counter">Counter</NavLink>
       </div>
       <Outlet />
     </>

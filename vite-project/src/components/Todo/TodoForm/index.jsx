@@ -12,7 +12,10 @@ function TodoForm(props) {
   const schema = yup
     .object()
     .shape({
-      title: yup.string().required("Please enter title").min(5, "Title is too short"),
+      title: yup
+        .string()
+        .required("Please enter title")
+        .min(5, "Title is too short"),
     })
     .required();
 
@@ -26,9 +29,9 @@ function TodoForm(props) {
     console.log("Todo: ", values);
     const { onSubmit } = props;
     if (onSubmit) {
-      onSubmit(values)
+      onSubmit(values);
     }
-    form.reset()
+    form.reset();
   };
   return (
     <form onSubmit={form.handleSubmit(handleSubmit)}>

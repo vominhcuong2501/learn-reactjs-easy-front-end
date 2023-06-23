@@ -6,6 +6,7 @@
 
 .MuiFormHelperText-root {
   color: red !important;
+  font-size: 20px !important;
 }
 
 .MuiFormHelperText-root.MuiInput-underline:after {
