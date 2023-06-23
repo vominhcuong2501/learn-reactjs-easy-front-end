@@ -11,7 +11,16 @@ export default function Home() {
         <NavLink to="/category">Category</NavLink>
         <NavLink to="/counter">Counter</NavLink>
       </div>
-      <Outlet />
+      <div
+        style={{
+          backdropFilter: "blur(5px)",
+          padding: "20px",
+          border: "2px solid aqua",
+          borderRadius: "20px",
+        }}
+      >
+        <Outlet />
+      </div>
     </>
   );
 }

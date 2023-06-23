@@ -1,9 +1,9 @@
 import { useRoutes } from "react-router-dom";
-import TodoFeature from "../components/Todo";
-import Product from "../components/Product";
-import Home from "../layout/home";
 import Category from "../components/Category/category";
 import { Counter } from "../components/Counter/counter";
+import Product from "../components/Product";
+import TodoFeature from "../components/Todo";
+import Home from "../layout/home";
 
 export default function Router() {
   const routing = useRoutes([

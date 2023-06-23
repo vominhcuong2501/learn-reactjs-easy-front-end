@@ -1,9 +1,13 @@
 #root {
   max-width: 1920px;
   margin: 0 auto;
-  padding: 0;
 }
-
+body {
+  background-image: url("./assets/hong-kong.jpg");
+  background-size: 100%;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+}
 .MuiFormHelperText-root {
   color: red !important;
   font-size: 20px !important;

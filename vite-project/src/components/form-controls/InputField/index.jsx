@@ -32,8 +32,13 @@ function InputField(props) {
         control={form.control}
         render={({ field }) => (
           <TextField
+            id="outlined-basic"
+            label="Todo"
+            variant="outlined"
             {...field}
             fullWidth
+            error={!!hasError}
+            size="large"
             // eslint-disable-next-line react/prop-types
             helperText={errors[name]?.message}
           />
