@@ -5,6 +5,12 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:react/jsx-runtime',
     'plugin:react-hooks/recommended',
+    {
+      "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6"
+      }
+    }
   ],
   parserOptions: { ecmaVersion: 'latest', sourceType: 'module' },
   settings: { react: { version: '18.2' } },

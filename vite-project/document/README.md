@@ -5,7 +5,7 @@
 - Dùng Vite Next Generation Frontend Tooling
 
 - Link cú pháp install: https://vitejs.dev/guide/
-  => npm: npm create vite@lastest
+  => npm: npm create vite@latest
   => yarn: yarn create vite
   => pnpm: pnpm create vite
 
